@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9BF7&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Gatwech+Gatmuon+Mut;Full+Stack+Developer" alt="Typing SVG" />
 </div>
-##Gatwech Gatmuon Mut
-## 💻 Full Stack Developer
+Gatwech Gatmuon Mut
+💻 Full Stack Developer
 
 <div style="background: linear-gradient(45deg, #1f005c, #5b0060, #870160, #ac255e, #ca485c, #e16b5c, #f39060, #ffb56b);">
 I'm a passionate Full Stack Developer with 3+ years of experience crafting robust web solutions. My expertise lies in building scalable applications that deliver exceptional user experiences.
