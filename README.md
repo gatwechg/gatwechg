@@ -64,8 +64,10 @@ I'm a passionate Full Stack Developer with 3+ years of experience crafting robus
   <a href="your-portfolio-url" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://web.facebook.com/profile.php?id=100090519130765" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </div>
-
 ### ⚡ Fun fact
 I can code in three different languages while listening to music in five different languages! 🎵
 
