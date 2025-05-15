@@ -55,7 +55,7 @@ I'm a passionate Full Stack Developer with 3+ years of experience crafting robus
 
 ### 📫 Let's Connect!
 <div align="left">
-  <a href="your-linkedin-url" target="_blank">
+  <a href="your-linkedin-url" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
